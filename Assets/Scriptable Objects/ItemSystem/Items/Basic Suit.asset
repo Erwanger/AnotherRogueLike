@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a7a5d1f7a791f043b84214c503e0d3f, type: 3}
+  m_Name: Basic Suit
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6683120809793974396, guid: fbe0e295739d32342ae56b9d3e5bd0b3, type: 3}
+  type: 1
+  description: A thin suit, which prevent you of being naked. It gives you a slight
+    defence.
+  atkBonus: 0
+  defBonus: 5
+  regenBonus: 0
+  spdBonus: 0
+  eqpType: 4
